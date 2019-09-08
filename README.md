@@ -15,7 +15,7 @@ Before using this program please check if the game you want to use it in does no
  
 
 ## Download
-You can download [latest compiled build from releases section](https://ci.appveyor.com/project/SamuelTulach/canetisradar/build/artifacts) or build it from source.
+You can download [latest compiled build from releases section](https://github.com/SamuelTulach/RecoilTime/releases/) or build it from source.
 
 ## Contributing
 If you want to help, you can create pull-request or donate me some money at [PayPal.me](paypal.me/SamuelTulach)
