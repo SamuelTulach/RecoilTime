@@ -1,4 +1,4 @@
-# Canetis Radar
+# RecoilTime
 <p align="center">
     <img src="https://i.imgur.com/9z98LPB.png">
 </p>
