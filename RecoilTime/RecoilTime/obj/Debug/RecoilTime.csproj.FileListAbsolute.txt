@@ -1,0 +1,10 @@
+C:\Users\Samuel Tulach\Desktop\RecoilTime\RecoilTime\RecoilTime\bin\Debug\RecoilTime.exe.config
+C:\Users\Samuel Tulach\Desktop\RecoilTime\RecoilTime\RecoilTime\bin\Debug\RecoilTime.exe
+C:\Users\Samuel Tulach\Desktop\RecoilTime\RecoilTime\RecoilTime\bin\Debug\RecoilTime.pdb
+C:\Users\Samuel Tulach\Desktop\RecoilTime\RecoilTime\RecoilTime\obj\Debug\RecoilTime.csprojAssemblyReference.cache
+C:\Users\Samuel Tulach\Desktop\RecoilTime\RecoilTime\RecoilTime\obj\Debug\RecoilTime.MainForm.resources
+C:\Users\Samuel Tulach\Desktop\RecoilTime\RecoilTime\RecoilTime\obj\Debug\RecoilTime.Properties.Resources.resources
+C:\Users\Samuel Tulach\Desktop\RecoilTime\RecoilTime\RecoilTime\obj\Debug\RecoilTime.csproj.GenerateResource.cache
+C:\Users\Samuel Tulach\Desktop\RecoilTime\RecoilTime\RecoilTime\obj\Debug\RecoilTime.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Tulach\Desktop\RecoilTime\RecoilTime\RecoilTime\obj\Debug\RecoilTime.exe
+C:\Users\Samuel Tulach\Desktop\RecoilTime\RecoilTime\RecoilTime\obj\Debug\RecoilTime.pdb
